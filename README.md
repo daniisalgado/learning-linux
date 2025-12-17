@@ -60,6 +60,6 @@ Se você busca clareza técnica com uma estética suave, sinta-se convidado a na
 <p align="center">
   <br>
   <sub>Documentado com intenção por <b>daniisalgado</b></sub><br>
-  <span>✧ 2024 ✧</span>
+  <span>✧ 2025 ✧</span>
 </p>
 
